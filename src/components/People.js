@@ -57,7 +57,7 @@ function People() {
                 })
             }
 
-            <p>thank you from 401d15</p>
+            <p>thank you haimour</p>
         </div>
 
     )
